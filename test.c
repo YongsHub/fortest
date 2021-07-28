@@ -8,3 +8,7 @@ int main(){
 void add(int a, int b){
 	return a + b;
 }
+
+void substract(int a, int b){
+	return a - b;
+}
